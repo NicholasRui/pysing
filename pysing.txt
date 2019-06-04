@@ -1,0 +1,9 @@
+shape will be... (grid dims, self, others...)
+
+
+a nested list of points at which the interaction can be checked
+
+to each element: a list of such interactions that the point participates in
+
+to each element: a list of points involved in the interaction
+
